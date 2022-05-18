@@ -2,4 +2,4 @@
 유화준 입니다.
 
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ghkwns5191)
+![Anurag's GitHub stats](https://github.com/ghkwns5191/github-readme-stats)
