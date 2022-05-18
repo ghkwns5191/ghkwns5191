@@ -1,5 +1,4 @@
 안녕하세요.
 유화준 입니다.
 
-
-![뱃지](https://github.com/ghkwns5191/github-readme-stats)
+[![GitHub issues](https://img.shields.io/github/issues/ghkwns5191/ghkwns5191.git?style=plastic)](https://github.com/ghkwns5191/ghkwns5191.git/issues)
